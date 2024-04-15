@@ -1,4 +1,4 @@
-# Projeto Desafio TABELA
+# Projeto Desafio Frontend Mentor
 DevQuest Exercício Concluído.
 
 <img src="./src/assets/image.png"> 
